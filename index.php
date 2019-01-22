@@ -14,7 +14,7 @@ include('functions.php');
 </head>
 
 <body>
-    <div id="wrap">
+    <div id="wrapper">
         <div class="container">
             <div class="row">
 
